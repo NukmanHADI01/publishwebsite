@@ -1,5 +1,5 @@
 .banner { 
-    background: url("Image/B222.jpg) no-repeat center center; 
+    background: url("/Image/B222.jpg) no-repeat center center; 
     background-size: cover; 
     padding-top: 20%; 
     padding-bottom: 20%; 
@@ -74,7 +74,7 @@
   
   .bg-image {
     /* The image used */
-    background-image: url("Image/B222.jpg");
+    background-image: url("/Image/B222.jpg");
   
     /* Add the blur effect */
     filter: blur(8px);
